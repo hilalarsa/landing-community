@@ -39,6 +39,11 @@ Write these command on your terminal-
 6. Repeat! No end to this game until the time ends, so submit as much as possible!
 7. Invite your friend to join! More the merrier!
 
-# Enjoy the power of OPEN-SOURCE!!!
+# Unleash the power of OPEN-SOURCE!!!
 
-Last thing, don't forget to enjoy!
+Run the React with
+```npm start```
+
+Access it on browser on `localhost:3000`.
+
+--add additional details here--
