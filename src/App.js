@@ -10,6 +10,15 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <p>
+          Ubah <code>src/App.js</code> dan simpan untuk me-reload.
+        </p>
+        <p>
+           <code>こんちはー</code> ヒラル.
+        </p>
+        <p>
+          ههههههههههههههههههههههههههه
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
